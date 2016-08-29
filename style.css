@@ -1,0 +1,26 @@
+body {
+  font-family: '微軟正黑體',"Open Sans", sans-serif;
+  padding-top: 70px;
+}
+
+.one {
+color: aqua;
+font-size:100px;
+}
+
+.two{
+color: aqua;
+font-size:50px;
+}
+
+.three{
+color: aqua;
+font-size:15px;
+}
+
+.content1 {
+  word-break: break-all}
+
+.content2 {
+  word-break: break-all}
+
